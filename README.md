@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YunhaoZZ
-- 🌱 I’m currently studying Computer Science for a Master's degree at University of Texas at Dallas (UTD)
-- 💞️ I’m looking to find internship or full time job as Software Development Engineer
+- 🌱 I'm a graduate with a Master's degree in Computer Science at University of Texas at Dallas (UTD)
 - 📫 Email: zhangenochyun@gmail.com
 
 <!---
