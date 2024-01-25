@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @YunhaoZZ
+<!---
 - 🌱 I'm a graduate with a Master's degree in Computer Science at University of Texas at Dallas (UTD)
+--->
 - 📫 Email: zhangenochyun@gmail.com
 
 <!---
